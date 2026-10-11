@@ -3,6 +3,12 @@ NeuralSky GitHub Organization Profile
 File: profile/README.md
 -->
 
+
+<picture>
+  <source srcset="https://raw.githubusercontent.com/NeuralSky/.github/main/.github/assets/brand/readme-banner.gif" type="image/gif">
+  <img src="https://raw.githubusercontent.com/NeuralSky/.github/main/.github/assets/brand/readme-banner.png" alt="NeuralSky — engineering for connected systems" width="100%">
+</picture>
+
 <div align="center">
 
 # NeuralSky
@@ -16,6 +22,8 @@ We design and build practical technology solutions that combine
 to solve real business problems.
 
 </div>
+
+<p align="center"><img src="https://raw.githubusercontent.com/NeuralSky/.github/main/.github/assets/brand/showreel.gif" alt="NeuralSky showreel" width="640"></p>
 
 ---
 
@@ -252,3 +260,8 @@ Implementation
 Measurement
       ↓
 Continuous Improvement
+```
+
+---
+
+<p align="center"><img src="https://raw.githubusercontent.com/NeuralSky/.github/main/.github/assets/brand/neuralsky-horizontal.png" alt="NeuralSky" width="180"><br><sub>NeuralSky Ops · <a href="https://neuralskyops.com">neuralskyops.com</a></sub></p>
